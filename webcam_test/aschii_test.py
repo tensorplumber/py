@@ -44,4 +44,4 @@ if __name__ == '__main__':
 
     decodedObjects = decode(im)
     display(im, decodedObjects)
-# print(''.join(str(ord(c)) for c in 'not yet\n'))
+# print(''.join(str(ord(c)) for c in 'not yet\n')).
