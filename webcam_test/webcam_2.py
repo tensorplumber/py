@@ -12,7 +12,7 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 
 # set brightness, id is 10 and
-# value can be changed accordingly.
+# value can be changed accordingly..
 cap.set(10,150)
 	
 # object color values
