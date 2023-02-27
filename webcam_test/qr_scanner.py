@@ -16,7 +16,7 @@ def read_qr_code():
 
     
     try:
-        # img = cv2.imread(filename)...........
+        # img = cv2.imread(filename)............
         detect = cv2.QRCodeDetector()
         ret, frame = cap.read()
 
